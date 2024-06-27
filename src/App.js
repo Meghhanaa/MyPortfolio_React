@@ -26,7 +26,7 @@ function App() {
       <Nav />
       {/* <Learn /> */}
       <Routes>
-        <Route exact="true" path="/MyPortfolio_React" element={<Banner />}></Route>
+        <Route exact="true" path="/myportfolio" element={<Banner />}></Route>
         {/* <Route exact="true" path="/myportfolio" element={<Home />}></Route> */}
         {/* <Route path="/myportfolio" element={<Home />}></Route> */}
         <Route path="/about" element={<About />}></Route>
