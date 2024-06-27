@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio_React/static/css/main.577b3812.css",
+    "main.js": "/MyPortfolio_React/static/js/main.07afc7f6.js",
+    "static/js/787.27ca2965.chunk.js": "/MyPortfolio_React/static/js/787.27ca2965.chunk.js",
+    "static/media/luxurysteeldoors.png": "/MyPortfolio_React/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
+    "static/media/djzaame.png": "/MyPortfolio_React/static/media/djzaame.19f0772a3f59b42ff5fe.png",
+    "static/media/bhopal.png": "/MyPortfolio_React/static/media/bhopal.4e7915f356b3ece0b380.png",
+    "static/media/netflix.png": "/MyPortfolio_React/static/media/netflix.9efc998b6113f8268334.png",
+    "static/media/pdf1.pdf": "/MyPortfolio_React/static/media/pdf1.b652c49c505f0c6ac628.pdf",
+    "static/media/megh4.jpeg": "/MyPortfolio_React/static/media/megh4.0f54009a0438049dd9e7.jpeg",
+    "static/media/quiz.png": "/MyPortfolio_React/static/media/quiz.3a969f7bfd9227ecbf32.png",
+    "static/media/rubiks.png": "/MyPortfolio_React/static/media/rubiks.04481b35a242d44b91df.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MyPortfolio_React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/megh1.jpg": "/MyPortfolio_React/static/media/megh1.065842f199218abadb04.jpg",
+    "static/media/fontawesome-webfont.eot": "/MyPortfolio_React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MyPortfolio_React/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/evisit.jpeg": "/MyPortfolio_React/static/media/evisit.6ae8ec9ea2d0a98e9622.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MyPortfolio_React/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MyPortfolio_React/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/wall-sleek.webp": "/MyPortfolio_React/static/media/wall-sleek.0c7cf04d05dc697eba13.webp",
+    "static/media/jsprojects.png": "/MyPortfolio_React/static/media/jsprojects.69d8a7d905bd4c337471.png",
+    "static/media/github.png": "/MyPortfolio_React/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/instagram.png": "/MyPortfolio_React/static/media/instagram.81d74f5b76e85ca7cd6a.png",
+    "index.html": "/MyPortfolio_React/index.html",
+    "main.577b3812.css.map": "/MyPortfolio_React/static/css/main.577b3812.css.map",
+    "main.07afc7f6.js.map": "/MyPortfolio_React/static/js/main.07afc7f6.js.map",
+    "787.27ca2965.chunk.js.map": "/MyPortfolio_React/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.577b3812.css",
+    "static/js/main.07afc7f6.js"
+  ]
+}
